@@ -1,2 +1,3 @@
 # LianneBronzo.github.io
-LianneBronzo.com
+
+Forwarding to [LianneBronzo.com](https://LianneBronzo.com)
